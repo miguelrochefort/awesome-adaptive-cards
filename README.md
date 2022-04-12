@@ -8,9 +8,9 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Adaptive Cards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
 
-- [Adaptive Cards Documentation](https://github.com/MicrosoftDocs/AdaptiveCards) - Documentation for Adaptive Cards
+- [Adaptive Cards Documentation](https://github.com/MicrosoftDocs/AdaptiveCards) - Documentation for Adaptive Cards.
 
-- [Made With Cards](https://github.com/MadeWithCards) - All the things Adaptive Cards
+- [Made With Cards](https://github.com/MadeWithCards) - All the things Adaptive Cards.
 
 ### Frameworks
 
@@ -22,33 +22,33 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Authoring
 
-- [.NET](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/net) - .NET SDK for Authoring Cards
+- [.NET](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/net) - .NET SDK for Authoring Cards.
 
-- [JavaScript](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/javascript) - JavaScript SDK for creating cards
+- [JavaScript](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/javascript) - JavaScript SDK for creating cards.
 
-- [Python](https://github.com/CiscoSE/pyadaptivecards) - Author adaptive cards in pure python
+- [Python](https://github.com/CiscoSE/pyadaptivecards) - Author adaptive cards in pure python.
 
-- [HTML](https://github.com/rcasto/adaptive-html) - HTML to Adaptive Card JSON converter library
+- [HTML](https://github.com/rcasto/adaptive-html) - HTML to Adaptive Card JSON converter library.
 
 ### Rendering
 
 - [Android](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/android/getting-started) - This is a renderer which targets Android native controls.
 
-- [Blazor](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor
+- [Blazor](https://github.com/mikoskinen/Blazor.AdaptiveCards) - Adaptive Cards for Blazor.
 
-- [Flutter](https://pub.dev/packages/flutter_adaptive_cards) - Adaptive Cards for Flutter
+- [Flutter](https://pub.dev/packages/flutter_adaptive_cards) - Adaptive Cards for Flutter.
 
 - [iOS](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/ios/getting-started) - This renderer which targets iOS native controls.
 
-- [JavaScript](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/javascript/getting-started) - Adaptive Cards renderer for JavaScript
+- [JavaScript](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/javascript/getting-started) - Adaptive Cards renderer for JavaScript.
 
-- [React](https://www.npmjs.com/package/adaptivecards-react) - Adaptive Cards renderer for React
+- [React](https://www.npmjs.com/package/adaptivecards-react) - Adaptive Cards renderer for React.
 
 - [React Native](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/react-native/getting-started) - A community-supported ReactNative renderer for Adaptive Cards, maintained by BigThinkCode.
 
-- [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) - Adaptive Cards Web Part
+- [SharePoint WebParts](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-adaptivecards) - Adaptive Cards Web Part.
 
-- [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) - Snippets of UI, authored in JSON and rendered with SwiftUI
+- [SwiftUI](https://github.com/gonzalezreal/AdaptiveCardUI) - Snippets of UI, authored in JSON and rendered with SwiftUI.
 
 - [UWP](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/uwp/getting-started) - This is a renderer which targets UWP native controls.
 
