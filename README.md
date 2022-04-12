@@ -20,6 +20,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Adaptive Cards Studio](https://github.com/MadeWithCards/AdaptiveCardsStudio) - Visual Studio Code Extension to help create AdaptiveCards.
 
+- [Adaptive Editor](https://github.com/rcasto/adaptive-editor) - Adaptive Card WYSIWYG editor.
+
 ### Authoring
 
 - [.NET](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/net) - .NET SDK for Authoring Cards.
@@ -29,6 +31,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 - [Python](https://github.com/CiscoSE/pyadaptivecards) - Author adaptive cards in pure python.
 
 - [HTML](https://github.com/rcasto/adaptive-html) - HTML to Adaptive Card JSON converter library.
+
+- [Markdown](https://github.com/rcasto/adaptive-markdown) - Markdown to Adaptive Card converter.
 
 ### Rendering
 
@@ -81,3 +85,19 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 - [Adaptive Cards Template Service](https://github.com/microsoft/adaptivecards-templates) - A collection of Adaptive Card templates for well-known data models
 
 - [Sample Viva Connections Cards](https://github.com/alexc-MSFT/viva-connections-cards) - Sample Viva Connections cards that leverage the card designer and data JSON. Provides an alternative to custom developed cards.
+
+- [CommonCards](https://github.com/MadeWithCards/CommonCards) - Adaptive Card Samples, Starter Cards and cards for commonly known objects such as Github Data or Saas Apps or other broadly used object definitions.
+
+### Projects
+
+- [Stock Bot (India)](https://github.com/r4hulp/StockBot) - Get realtime stock prices right in your chat window.
+
+- [MS Teams Incoming Webhook](https://github.com/mikesprague/teams-incoming-webhook-action) - GitHub Action that sends an AdaptiveCard notification to an MS Teams Incoming Webhook.
+
+- [PSTeams](https://github.com/EvotecIT/PSTeams) - PowerShell Module that allows sending notifications to Microsoft Teams via WebHook Notifications.
+
+- [Cardscript](https://github.com/wmfs/cardscript) - A JSON-based language for describing rich user interfaces.
+
+- [Spotify Player Bot](https://github.com/bragner/Spotify-Player-Bot) - Spotify Player Bot integrates Bot Framework v4 with Spotify Web Api.
+
+- [Adaptive Cards - Azure Functions](https://github.com/cdngmnks/adaptive-cards-azure-functions-dotnet) - A simple Azure function returning an Adaptive Card as HTML using the .NET SDK. 
