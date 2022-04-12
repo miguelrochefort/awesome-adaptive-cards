@@ -52,19 +52,19 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [UWP](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/uwp/getting-started) - This is a renderer which targets UWP native controls.
 
-- [Vue](https://github.com/DeeJayTC/adaptivecards-vue) - Vue.js component to render adaptive cards
+- [Vue](https://github.com/DeeJayTC/adaptivecards-vue) - Vue.js component to render adaptive cards.
 
-- [Web Components](https://github.com/deejaytc/adaptivecards-wc) - Adaptive Cards Web Component
+- [Web Components](https://github.com/deejaytc/adaptivecards-wc) - Adaptive Cards Web Component.
 
 - [Xamarin.Android](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/xamarin/android/getting-started) - This is a renderer library which targets native xamarin android applications and is based on the Android renderer that you can find here.
 
-- [Xamarin.iOS](https://www.nuget.org/packages/AdaptiveCard.Xamarin.iOS/) - Microsoft adaptive card for Xamarin iOS
+- [Xamarin.iOS](https://www.nuget.org/packages/AdaptiveCard.Xamarin.iOS/) - Microsoft adaptive card for Xamarin iOS.
 
-- [.NET HTML](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/net-html/getting-started)
+- [.NET HTML](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/net-html/getting-started) - Render Adaptive Cards into HTML.
 
-- [.NET Image](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/net-image/getting-started) 
+- [.NET Image](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/net-image/getting-started) - Render Adaptive Cards into PNG images. 
 
-- [.NET WPF](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/net-wpf/getting-started)
+- [.NET WPF](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/net-wpf/getting-started) - Render Adaptive Cards into WPF UI.
 
 ### Expressions 
 
