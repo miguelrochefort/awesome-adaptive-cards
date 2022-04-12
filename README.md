@@ -34,6 +34,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Markdown](https://github.com/rcasto/adaptive-markdown) - Markdown to Adaptive Card converter.
 
+- [JSON](https://github.com/MadeWithCards/Transformer/blob/12e37eed187b529124d020a4307bf90f91844299/Source/JS/README.md) - This library implements a JSON-to-JSON templating/data-binding engine.
+
 ### Rendering
 
 - [Android](https://docs.microsoft.com/en-us/adaptive-cards/sdk/rendering-cards/android/getting-started) - This is a renderer which targets Android native controls.
