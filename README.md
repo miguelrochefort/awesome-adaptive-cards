@@ -104,10 +104,10 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Adaptive Cards - Azure Functions](https://github.com/cdngmnks/adaptive-cards-azure-functions-dotnet) - A simple Azure function returning an Adaptive Card as HTML using the .NET SDK. 
 
-- [Adaptive Cards Demo with Templating](https://github.com/dseda/adaptive-cards-demo/tree/d30ec17f840d78def7dd84fcde89442c7483bdd5) - Adaptive Cards with Templating Demo
+- [Adaptive Cards Demo with Templating](https://github.com/dseda/adaptive-cards-demo/tree/d30ec17f840d78def7dd84fcde89442c7483bdd5) - Adaptive Cards with Templating Demo.
 
-- [Virtual Agent](https://github.com/dylanlindgren/va-adaptive-cards) - Virtual Agent Adaptive Cards
+- [Virtual Agent](https://github.com/dylanlindgren/va-adaptive-cards) - Virtual Agent Adaptive Cards.
 
-- [Drone](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server
+- [Drone](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server.
 
 - [qutex](https://github.com/amthorn/qutex) - A basic Queue Management System, interactable via several mediums, that resembles a mutex.
