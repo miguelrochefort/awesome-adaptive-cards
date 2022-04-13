@@ -10,6 +10,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Adaptive Cards Documentation](https://github.com/MicrosoftDocs/AdaptiveCards) - Documentation for Adaptive Cards.
 
+- [Adaptive Cards 2.0 Documentation](https://github.com/dclaux/adaptivecards-v2-docs) - Documentation for Adaptive Cards 2.0.
+
 - [Made With Cards](https://github.com/MadeWithCards) - All the things Adaptive Cards.
 
 ### Frameworks
