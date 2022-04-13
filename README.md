@@ -94,6 +94,12 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Contoso Dive Finder](https://github.com/matthidinger/ContosoScubaBot) - Sample bot built with rich Adaptive Cards.
 
+- [WeatherBot](https://github.com/EricDahlvang/AdaptiveCards-WeatherBot) - Example showing how to create an intelligent bot that displays a weather forecast for a city using APIXU.
+
+- [Bing API Adaptive Cards on HoloLens](https://github.com/microsoft/bingapi-hololens-demo) - Demo project showcasing Bing API Adaptive Cards rendered on HoloLens via image recognition.
+
+- [Stock Market Card](https://github.com/OOlashyn/PCF-StockMarketCard) - Stock Update Card using Adaptive Cards and Powerapps Control Framework.
+
 - [Stock Bot (India)](https://github.com/r4hulp/StockBot) - Get realtime stock prices right in your chat window.
 
 - [MS Teams Incoming Webhook](https://github.com/mikesprague/teams-incoming-webhook-action) - GitHub Action that sends an AdaptiveCard notification to an MS Teams Incoming Webhook.
