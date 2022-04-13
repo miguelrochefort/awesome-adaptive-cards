@@ -90,6 +90,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Adaptive Cards Template Service](https://github.com/microsoft/adaptivecards-templates) - A collection of Adaptive Card templates for well-known data models
 
+- [Adaptive Cards Scenarios](https://github.com/microsoft/AdaptiveCards/tree/main/samples/Templates/Scenarios) - Sample scenarios from Adaptive Cards.
+
 - [Sample Viva Connections Cards](https://github.com/alexc-MSFT/viva-connections-cards) - Sample Viva Connections cards that leverage the card designer and data JSON. Provides an alternative to custom developed cards.
 
 - [CommonCards](https://github.com/MadeWithCards/CommonCards) - Adaptive Card Samples, Starter Cards and cards for commonly known objects such as Github Data or Saas Apps or other broadly used object definitions.
