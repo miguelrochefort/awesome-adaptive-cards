@@ -92,6 +92,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 ### Projects using Adaptive Cards
 
+- (Contoso Dive Finder)[https://github.com/matthidinger/ContosoScubaBot] - Sample bot built with rich Adaptive Cards
+
 - [Stock Bot (India)](https://github.com/r4hulp/StockBot) - Get realtime stock prices right in your chat window.
 
 - [MS Teams Incoming Webhook](https://github.com/mikesprague/teams-incoming-webhook-action) - GitHub Action that sends an AdaptiveCard notification to an MS Teams Incoming Webhook.
