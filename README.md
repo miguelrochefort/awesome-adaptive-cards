@@ -94,6 +94,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [CommonCards](https://github.com/MadeWithCards/CommonCards) - Adaptive Card Samples, Starter Cards and cards for commonly known objects such as Github Data or Saas Apps or other broadly used object definitions.
 
+- [Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/cards/design-effective-cards?tabs=design)
+
 ### Projects using Adaptive Cards
 
 - [Contoso Dive Finder](https://github.com/matthidinger/ContosoScubaBot) - Sample bot built with rich Adaptive Cards.
@@ -123,3 +125,7 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 - [Drone](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server.
 
 - [qutex](https://github.com/amthorn/qutex) - A basic Queue Management System, interactable via several mediums, that resembles a mutex.
+
+### Videos
+
+- [Adaptive Cards in Bots, Windows, Outlook and your own applications : Build 2018](https://www.youtube.com/watch?v=GJkep8wToVA&t=3288s)
