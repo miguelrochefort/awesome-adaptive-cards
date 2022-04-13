@@ -24,6 +24,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Adaptive Editor](https://github.com/rcasto/adaptive-editor) - Adaptive Card WYSIWYG editor.
 
+- [Pic2Card](https://adaptivecards.io/blog/2020/Community-Call-November/) - Automatically convert a card-like image into an Adaptive Card payload.
+
 ### Authoring
 
 - [.NET](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/net) - .NET SDK for Authoring Cards.
