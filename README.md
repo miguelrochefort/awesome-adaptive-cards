@@ -128,6 +128,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [qutex](https://github.com/amthorn/qutex) - A basic Queue Management System, interactable via several mediums, that resembles a mutex.
 
+- [box2card](https://github.com/miguelrochefort/box2card) - Convert Wikipedia infoboxes into Adaptive Cards.
+
 ### Videos
 
 - [Adaptive Cards in Bots, Windows, Outlook and your own applications : Build 2018](https://www.youtube.com/watch?v=GJkep8wToVA&t=3288s)
