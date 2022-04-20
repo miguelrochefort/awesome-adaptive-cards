@@ -26,6 +26,8 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 
 - [Pic2Card](https://adaptivecards.io/blog/2020/Community-Call-November/) - Automatically convert a card-like image into an Adaptive Card payload.
 
+- [box2card](https://github.com/miguelrochefort/box2card) - Convert Wikipedia infoboxes into Adaptive Cards.
+
 ### Authoring
 
 - [.NET](https://docs.microsoft.com/en-us/adaptive-cards/sdk/authoring-cards/net) - .NET SDK for Authoring Cards.
@@ -127,8 +129,6 @@ A curated list of awesome [Adaptive Cards](https://adaptivecards.io) projects.
 - [Drone](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server.
 
 - [qutex](https://github.com/amthorn/qutex) - A basic Queue Management System, interactable via several mediums, that resembles a mutex.
-
-- [box2card](https://github.com/miguelrochefort/box2card) - Convert Wikipedia infoboxes into Adaptive Cards.
 
 ### Videos
 
